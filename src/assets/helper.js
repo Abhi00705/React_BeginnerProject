@@ -1,0 +1,1 @@
+export const Card_Img = "https://img.freepik.com/premium-photo/painting-house-field-with-mountains-background_884500-2420.jpg?w=360"
